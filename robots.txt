@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://canuzlas.github.io/notes-yx7cm9/sitemap.xml
